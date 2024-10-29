@@ -10,8 +10,8 @@ Figma : https://www.figma.com/design/iOJ7MEmHZctxkZeXtr700z/Untitled?node-id=0-1
 
 Screen Shot : 
 
-<img width="" alt="image" src="https://github.com/andreasrs00/UTS_PM4_AndreasRobson/HomePage.png">
-<img width="" alt="image" src="https://github.com/andreasrs00/UTS_PM4_AndreasRobson/kelimutuPage.png">
+<img width="" alt="image" src="https://github.com/andreasrs00/UTS_PM4_AndreasRobson/blob/main/HomePage.png">
+<img width="" alt="image" src="https://github.com/andreasrs00/UTS_PM4_AndreasRobson/blob/main/kelimutuPage.png">
 
 Credit :
 1. Icon : https://icon-sets.iconify.design/
