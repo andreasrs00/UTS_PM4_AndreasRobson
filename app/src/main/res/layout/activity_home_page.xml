@@ -87,10 +87,11 @@
                     android:layout_height="68dp"
                     android:layout_alignParentBottom="true"
                     android:layout_marginBottom="0dp"
-                    android:background="@color/primary"
+                    android:background="@drawable/rounded_corner_bg"
                     android:orientation="vertical"
                     android:layout_centerInParent="true"
-                    android:alpha="0.7"
+                    android:alpha="0.6"
+                    android:gravity="center"
                     android:padding="12dp">
 
                     <TextView
@@ -143,10 +144,11 @@
                     android:layout_height="68dp"
                     android:layout_alignParentBottom="true"
                     android:layout_marginBottom="0dp"
-                    android:background="@color/primary"
+                    android:background="@drawable/rounded_corner_bg"
                     android:orientation="vertical"
                     android:layout_centerInParent="true"
-                    android:alpha="0.7"
+                    android:alpha="0.6"
+                    android:gravity="center"
                     android:padding="12dp">
 
                     <TextView
@@ -199,10 +201,11 @@
                     android:layout_height="68dp"
                     android:layout_alignParentBottom="true"
                     android:layout_marginBottom="0dp"
-                    android:background="@color/primary"
+                    android:background="@drawable/rounded_corner_bg"
                     android:orientation="vertical"
                     android:layout_centerInParent="true"
-                    android:alpha="0.7"
+                    android:alpha="0.6"
+                    android:gravity="center"
                     android:padding="12dp">
 
                     <TextView
