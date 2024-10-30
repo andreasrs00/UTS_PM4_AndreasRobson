@@ -15,6 +15,6 @@ Screen Shot :
 
 Credit :
 1. Icon : https://icon-sets.iconify.design/
-2. Picture : 
+2. Picture : https://indonesia.travel/gb/en/home.html
 3. Design : https://dribbble.com/shots/16354607-Travel-App
 
